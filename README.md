@@ -1,3 +1,6 @@
+## Antes de comenzar
+Al descargar el código, se debe ejecutar 'npm install', para que se cree la carpeta node_modules.
+
 ## Archivos donde crear los test
 'nombre_archivo.spec.ts'
 
